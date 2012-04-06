@@ -1,50 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?>
+<? xml version = "1.0" encoding = "utf-8"?>
 <resources>
-  <string-array name="app_type_desc">
-    <item>(Data)</item>
-    <item>(Aplikace)</item>
-    <item>(Aplikace a data)</item>
-  </string-array>
-  <string-array name="backup_dialog_content_type">
-    <item>Wi-Fi Data</item>
-    <item>Všechny aplikace</item>
-  </string-array>
-  <string-array name="cloud_account_data">
-    <item>Kontakty</item>
-    <item>Nastavení Wi-Fi</item>
-    <item>Poznámky</item>
-  </string-array>
-  <string-array name="cloud_data_label">
-    <item>Kontakty</item>
-    <item>Historie volání</item>
-    <item>SMS</item>
-    <item>Nastavení Wi-Fi</item>
-    <item>Poznámky</item>
-  </string-array>
-  <string-array name="cloud_sim_data">
-    <item>Historie volání</item>
-    <item>SMS (SIM)</item>
-  </string-array>
-  <string-array name="system_data_label">
-    <item>Kontakty</item>
-    <item>Historie volání</item>
-    <item>SMS</item>
-    <item>MMS</item>
-    <item>Nastavení systému</item>
-    <item>Nastavení Wi-Fi</item>
-    <item>Uspořádání ploch</item>
-    <item>Nastavení upozornění</item>
-    <item>Poznámky</item>
-    <item>Režim nerušit</item>
-    <item>Současné téma</item>
-    <item>Superuživatel</item>
-  </string-array>
-  <string-array name="system_package_label">
-    <item>Galerie</item>
-    <item>Hudba</item>
-    <item>Nahrávky</item>
-    <item>Prohlížeč</item>
-    <item>Fotoaparát</item>
-    <item>Správce souborů</item>
-  </string-array>
-</resources>
+   <string-array name="app_type_desc">
+     <item> (Data) </ item>
+     <item> (Aplikácie) </ item>
+     <item> (Aplikácie a dáta) </ item>
+   </ string-array>
+   <string-array name="backup_dialog_content_type">
+     <item> Wi-Fi Data </ item>
+     <item> Všetky aplikácie </ item>
+   </ string-array>
+   <string-array name="cloud_account_data">
+     <item> Kontakty </ item>
+     <item> Nastavenie Wi-Fi </ item>
+     <item> Poznámky </ item>
+   </ string-array>
+   <string-array name="cloud_data_label">
+     <item> Kontakty </ item>
+     <item> História volania </ item>
+     <item> SMS </ item>
+     <item> Nastavenie Wi-Fi </ item>
+     <item> Poznámky </ item>
+   </ string-array>
+   <string-array name="cloud_sim_data">
+     <item> História volania </ item>
+     <item> SMS (SIM) </ item>
+   </ string-array>
+   <string-array name="system_data_label">
+     <item> Kontakty </ item>
+     <item> História volania </ item>
+     <item> SMS </ item>
+     <item> MMS </ item>
+     <item> Nastavenie systému </ item>
+     <item> Nastavenie Wi-Fi </ item>
+     <item> Usporiadanie plôch </ item>
+     <item> Nastavenie upozornenia </ item>
+     <item> Poznámky </ item>
+     <item> Režim nerušiť </ item>
+     <item> Súčasná téma </ item>
+     <item> Superuser </ item>
+   </ string-array>
+   <string-array name="system_package_label">
+     <item> Galéria </ item>
+     <item> Hudba </ item>
+     <item> Nahrávky </ item>
+     <item> Prehliadač </ item>
+     <item> Fotoaparát </ item>
+     <item> Správca súborov </ item>
+   </ string-array>
+</ resources>
